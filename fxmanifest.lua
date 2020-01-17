@@ -1,3 +1,7 @@
+fx_version 'adamant'
+
+game 'gta5'
+
 description 'ESX Blanchimment d\'argent'
 
 client_scripts {
